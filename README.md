@@ -1,1 +1,1 @@
-# ai-book-finder
+# book-finder
